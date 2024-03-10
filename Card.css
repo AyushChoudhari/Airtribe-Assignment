@@ -6,8 +6,6 @@
   .card:hover {
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
   }
-  /* App.css */
-
 .title {
     font-size: 2rem;
     margin-bottom: 1rem;
@@ -22,16 +20,16 @@
   }
   
   .task-list h2 {
-    font-weight: bold; /* Make headings bold */
-    color: #4CAF50; /* Green color for "To Do" */
+    font-weight: bold; 
+    color: #4CAF50; 
   }
   
   .in-progress h2 {
-    color: #FFC107; /* Orange color for "In Progress" */
+    color: #FFC107; 
   }
   
   .done h2 {
-    color: #9E9E9E; /* Gray color for "Done" */
+    color: #9E9E9E; 
   }
   
   
