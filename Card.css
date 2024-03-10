@@ -1,0 +1,38 @@
+.card {
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    transition: box-shadow 0.3s ease;
+  }
+  
+  .card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+  /* App.css */
+
+.title {
+    font-size: 2rem;
+    margin-bottom: 1rem;
+  }
+  
+  .task-list {
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 1rem;
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+  }
+  
+  .task-list h2 {
+    font-weight: bold; /* Make headings bold */
+    color: #4CAF50; /* Green color for "To Do" */
+  }
+  
+  .in-progress h2 {
+    color: #FFC107; /* Orange color for "In Progress" */
+  }
+  
+  .done h2 {
+    color: #9E9E9E; /* Gray color for "Done" */
+  }
+  
+  
+  
